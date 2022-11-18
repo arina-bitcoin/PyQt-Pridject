@@ -1,2 +1,2 @@
 # PyQt-Prodject
-Pridject for Yandex.Lyceum
+Prodject for Yandex.Lyceum
